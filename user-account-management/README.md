@@ -1,4 +1,4 @@
-# 🧪 Windows Help Desk Lab – Domain User Management 
+# 🧪 Windows Help Desk Lab – Domain User Management (Module 1)
 
 ## 📌 Overview
 This lab simulates common **Tier 1 Help Desk tasks** related to **Windows domain user management** in an enterprise environment. The objective was to gain hands-on experience creating, managing, and troubleshooting domain user accounts using **Active Directory Users and Computers (ADUC)**.
